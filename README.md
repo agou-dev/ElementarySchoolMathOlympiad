@@ -12,7 +12,7 @@ The elementary math Olympiad includes 9 mathematical problems:
 9. Logical problem (hypothesis exclusion method, list method)
 
 
-Specifically, it includes：
+# Specifically, it includes：
 0. The ingenious use of proportion method (proportion problem)
 1. Encounter problem (equation problem)
 2. Follow up problem (equation problem)
@@ -73,8 +73,18 @@ Specifically, it includes：
 42. Factor problem (common factor problem of periodic prime remainder)
 
 
-These issues come from 233 Online School
+## These issues come from 233 Online School
+
 These codes implement some functions of image and set theory
+
+I wrote a library for drawing and arranging graphics to implement several graphics
+
+Set theory problem
+
 ![示例图片](https://github.com/agou-dev/ElementarySchoolMathOlympiad/blob/main/Doc/TheSetTheoryOfMultipleCircles.png)
+Tree diagram problem
+
 ![示例图片](https://github.com/agou-dev/ElementarySchoolMathOlympiad/blob/main/Doc/TreeDiagram.png)
+Vertex arrangement problem
+
 ![示例图片](https://github.com/agou-dev/ElementarySchoolMathOlympiad/blob/main/Doc/ListVertices.png)
