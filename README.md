@@ -82,9 +82,11 @@ I wrote a library for drawing and arranging graphics to implement several graphi
 Set theory problem
 
 ![示例图片](https://github.com/agou-dev/ElementarySchoolMathOlympiad/blob/main/Doc/TheSetTheoryOfMultipleCircles.png)
+
 Tree diagram problem
 
 ![示例图片](https://github.com/agou-dev/ElementarySchoolMathOlympiad/blob/main/Doc/TreeDiagram.png)
+
 Vertex arrangement problem
 
 ![示例图片](https://github.com/agou-dev/ElementarySchoolMathOlympiad/blob/main/Doc/ListVertices.png)
