@@ -1,4 +1,5 @@
 # ElementarySchoolMathOlympiad
+
 The elementary math Olympiad includes 9 mathematical problems: 
 1. Proportional problem
 2. Fractional problem
@@ -70,3 +71,7 @@ Specifically, it includes：
 40. Factor multiplier problem (common factor problem of periodic prime remainder)
 41. Division problem of numbers (common factor problem of remainder of periodic prime numbers)
 42. Factor problem (common factor problem of periodic prime remainder)
+
+
+These issues come from 233 Online School
+These codes implement some functions of image and set theory
