@@ -75,4 +75,6 @@ Specifically, it includes：
 
 These issues come from 233 Online School
 These codes implement some functions of image and set theory
-![示例图片](https://github.com/agou-dev/ElementarySchoolMathOlympiad/blob/main/Doc/QQ_1756619127540.png)
+![示例图片](https://github.com/agou-dev/ElementarySchoolMathOlympiad/blob/main/Doc/TheSetTheoryOfMultipleCircles.png)
+![示例图片](https://github.com/agou-dev/ElementarySchoolMathOlympiad/blob/main/Doc/TreeDiagram.png)
+![示例图片](https://github.com/agou-dev/ElementarySchoolMathOlympiad/blob/main/Doc/ListVertices.png)
