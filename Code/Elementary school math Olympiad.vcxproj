@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="math Olympiad\MathOlympiad.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="math Olympiad\CalculusEquations.h" />
+    <ClInclude Include="math Olympiad\LanguageLib.h" />
+    <ClInclude Include="math Olympiad\MenuCommand.h" />
+    <ClInclude Include="math Olympiad\NPLib.h" />
+    <ClInclude Include="math Olympiad\P1.h" />
+    <ClInclude Include="math Olympiad\P10.h" />
+    <ClInclude Include="math Olympiad\P11.h" />
+    <ClInclude Include="math Olympiad\P12.h" />
+    <ClInclude Include="math Olympiad\P13.h" />
+    <ClInclude Include="math Olympiad\P14.h" />
+    <ClInclude Include="math Olympiad\P15.h" />
+    <ClInclude Include="math Olympiad\P16.h" />
+    <ClInclude Include="math Olympiad\P17.h" />
+    <ClInclude Include="math Olympiad\P18.h" />
+    <ClInclude Include="math Olympiad\P19.h" />
+    <ClInclude Include="math Olympiad\P2.h" />
+    <ClInclude Include="math Olympiad\P20.h" />
+    <ClInclude Include="math Olympiad\P21.h" />
+    <ClInclude Include="math Olympiad\P22.h" />
+    <ClInclude Include="math Olympiad\P23.h" />
+    <ClInclude Include="math Olympiad\P24.h" />
+    <ClInclude Include="math Olympiad\P25.h" />
+    <ClInclude Include="math Olympiad\P26.h" />
+    <ClInclude Include="math Olympiad\P27.h" />
+    <ClInclude Include="math Olympiad\P28.h" />
+    <ClInclude Include="math Olympiad\P29.h" />
+    <ClInclude Include="math Olympiad\P3.h" />
+    <ClInclude Include="math Olympiad\P30.h" />
+    <ClInclude Include="math Olympiad\P31.h" />
+    <ClInclude Include="math Olympiad\P32.h" />
+    <ClInclude Include="math Olympiad\P33.h" />
+    <ClInclude Include="math Olympiad\P34.h" />
+    <ClInclude Include="math Olympiad\P35.h" />
+    <ClInclude Include="math Olympiad\P36.h" />
+    <ClInclude Include="math Olympiad\P37.h" />
+    <ClInclude Include="math Olympiad\P38.h" />
+    <ClInclude Include="math Olympiad\P39.h" />
+    <ClInclude Include="math Olympiad\P4.h" />
+    <ClInclude Include="math Olympiad\P40.h" />
+    <ClInclude Include="math Olympiad\P41.h" />
+    <ClInclude Include="math Olympiad\P43.h" />
+    <ClInclude Include="math Olympiad\P44.h" />
+    <ClInclude Include="math Olympiad\P45.h" />
+    <ClInclude Include="math Olympiad\P46.h" />
+    <ClInclude Include="math Olympiad\P47.h" />
+    <ClInclude Include="math Olympiad\P48.h" />
+    <ClInclude Include="math Olympiad\P49.h" />
+    <ClInclude Include="math Olympiad\P5.h" />
+    <ClInclude Include="math Olympiad\P50.h" />
+    <ClInclude Include="math Olympiad\P51.h" />
+    <ClInclude Include="math Olympiad\P52.h" />
+    <ClInclude Include="math Olympiad\P53.h" />
+    <ClInclude Include="math Olympiad\P54.h" />
+    <ClInclude Include="math Olympiad\P55.h" />
+    <ClInclude Include="math Olympiad\P56.h" />
+    <ClInclude Include="math Olympiad\P57.h" />
+    <ClInclude Include="math Olympiad\P58.h" />
+    <ClInclude Include="math Olympiad\P59.h" />
+    <ClInclude Include="math Olympiad\P6.h" />
+    <ClInclude Include="math Olympiad\P60.h" />
+    <ClInclude Include="math Olympiad\P61.h" />
+    <ClInclude Include="math Olympiad\P62.h" />
+    <ClInclude Include="math Olympiad\P63.h" />
+    <ClInclude Include="math Olympiad\P64.h" />
+    <ClInclude Include="math Olympiad\P65.h" />
+    <ClInclude Include="math Olympiad\P66.h" />
+    <ClInclude Include="math Olympiad\P67.h" />
+    <ClInclude Include="math Olympiad\P68.h" />
+    <ClInclude Include="math Olympiad\P69.h" />
+    <ClInclude Include="math Olympiad\P7.h" />
+    <ClInclude Include="math Olympiad\P70.h" />
+    <ClInclude Include="math Olympiad\P71.h" />
+    <ClInclude Include="math Olympiad\P72.h" />
+    <ClInclude Include="math Olympiad\P73.h" />
+    <ClInclude Include="math Olympiad\P74.h" />
+    <ClInclude Include="math Olympiad\P75.h" />
+    <ClInclude Include="math Olympiad\P76.h" />
+    <ClInclude Include="math Olympiad\P77.h" />
+    <ClInclude Include="math Olympiad\P78.h" />
+    <ClInclude Include="math Olympiad\P79.h" />
+    <ClInclude Include="math Olympiad\P8.h" />
+    <ClInclude Include="math Olympiad\P80.h" />
+    <ClInclude Include="math Olympiad\P81.h" />
+    <ClInclude Include="math Olympiad\P82.h" />
+    <ClInclude Include="math Olympiad\P83.h" />
+    <ClInclude Include="math Olympiad\P84.h" />
+    <ClInclude Include="math Olympiad\P85.h" />
+    <ClInclude Include="math Olympiad\P86.h" />
+    <ClInclude Include="math Olympiad\P87.h" />
+    <ClInclude Include="math Olympiad\P88.h" />
+    <ClInclude Include="math Olympiad\P89.h" />
+    <ClInclude Include="math Olympiad\P9.h" />
+    <ClInclude Include="math Olympiad\P90.h" />
+    <ClInclude Include="math Olympiad\P91.h" />
+    <ClInclude Include="math Olympiad\P92.h" />
+    <ClInclude Include="math Olympiad\P93.h" />
+    <ClInclude Include="math Olympiad\P94.h" />
+    <ClInclude Include="math Olympiad\P95.h" />
+    <ClInclude Include="math Olympiad\P96.h" />
+    <ClInclude Include="math Olympiad\P97.h" />
+    <ClInclude Include="math Olympiad\Variable.h" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{252c196b-9769-48b0-9068-35a3e704118e}</ProjectGuid>
+    <RootNamespace>ElementaryschoolmathOlympiad</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalOptions>/bigobj %(AdditionalOptions)</AdditionalOptions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalOptions>/bigobj %(AdditionalOptions)</AdditionalOptions>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalOptions>/bigobj %(AdditionalOptions)</AdditionalOptions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalOptions>/bigobj %(AdditionalOptions)</AdditionalOptions>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
